@@ -6,7 +6,7 @@ Table of Contents
     Installation
     Usage
     Contributing
-    License
+    Credits
     Acknowledgements
 
 Installation
@@ -25,10 +25,13 @@ Usage
 
 Contributing
 
-Contributions are welcome. Please open an issue or submit a pull request to suggest changes or improvements.
-License
+    Contributions are welcome. Please open an issue or submit a pull request to suggest changes or improvements.
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+Credits
+    Mete Turkan
+    linkedIn : linkedin.com/in/mete-turkan
+    Inst : m_trkn46
+
 Acknowledgements
 
     Tkinter library for creating the GUI
